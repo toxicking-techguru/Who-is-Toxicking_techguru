@@ -4,9 +4,9 @@
 
 
 Hello am toxicking_techguru/* not official name*/, 
-am a kenyan, 26 years old phone number 0715133221/0728756236
+am a kenyan, 26 years old phone number 0715133221/0728756236.
 I am a degree holder.
- Am exeperienced with a good demonstrated history in  cyber security  field...
+ I am exeperienced with a good demonstrated history in  cyber security  field...
 Narrowing down from my experience in web development (fullstack), Machine learning ,data science , artificial intelligence, and programming I was able to tackle computer security field in general and ethical Hacking in specific.
 
 ---skilled in Javascript, python,SQL , php and more
