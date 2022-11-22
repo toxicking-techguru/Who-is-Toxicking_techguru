@@ -4,12 +4,12 @@ Who am I??
 
 Hello I am toxicking_techguru/* not official name*/, am a kenyan, 26 years old phone number 0715133221/0728756236. I am a degree holder. 6 years experience in the field of computer and technologies I am experienced with a good demonstrated history in cyber security, and programming ... Narrowing down from my experience in web development (fullstack), Mobile apps , Java apps, Machine learning ,data science , artificial intelligence, I am able to tackle computer security field in general and ethical Hacking in specific.
 
----skilled in HTML,CSS, Javascript( Jquery libraries and ReactJS frameworks), python(flask),SQL , php JSON and AJAX.
+---skilled in HTML,CSS, Javascript( Jquery libraries and ReactJS frameworks), python(flask),SQL , php JSON and AJAX,JAVA apps , C and C++ games dev, C# EDP and many more.
 
 ---With 4 years of experience Linux and Hackerone and Intigrity Bug bounty i am able to participate in the general field of penetration testing and send POC's to the specific camponys of which i have been able to report critical bugs ----i participate in in Cyber security (CTF) competitions at cybertalents and HTB .
 
 ---with my great belief in team work in the Cyber security field and programming I am able to unite several university /collage information technology and computer science degree/diploma/ students inside different kinds of social media assigning them different cyber security tasks and training them freely Am
-Brian +2547756236
+Brian +254728756236
 
 __ I have Several Github repositories which will explain more on my erea of intrest specifically machine exploitation, digital forensics,web security ,UI design networking ,back engineering, cryptography and other writups outside cyber security (programming which Will describe my experience in computer field.
 
@@ -52,15 +52,5 @@ PICTURES DIRECTORIE HAVING SOME BASH  NETLOGO
 MUSIC DIRECTORIE
 ![image](https://user-images.githubusercontent.com/73772907/203238487-d7517f87-4551-4b51-9927-87821dba7150.png)
 
-
-AND VIDEOS DIRECTOR
-
-
-
-
-
-Plus Icon
-Ethical Hacking at THE SHIELD KE
-
-some of the 
+PING PING FOR CONECTIONS
 
