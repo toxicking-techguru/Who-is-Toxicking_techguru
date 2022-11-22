@@ -24,6 +24,43 @@ __ I have Several Github repositories which will explain more on my erea of intr
 --- currently am majoring majoring in this fields PHP,MySQL,laravel ,linux, python arduino, raspberry PI, cloud computing and Blockchain,JAMstack,Git
 
 Thank you Inbox me for more💥💥
-Experiences History
+Experiences History represented with the following screenshorts some parts in the folloeing directories(Desktop,Music,Videos,.....)
+
+![image](https://user-images.githubusercontent.com/73772907/203237088-87b797eb-9559-4a86-85f0-3f95b7854b84.png)
+
+
+THE SECOND PART OF MY DESKTOP
+
+![image](https://user-images.githubusercontent.com/73772907/203237255-f29db674-8c60-46d2-98aa-68b21a17bcd8.png)
+
+
+DOCUMENTS
+
+![image](https://user-images.githubusercontent.com/73772907/203237542-afedd453-4d1f-4273-bc17-3386dd689ca1.png)
+
+
+DOWNLOADS HAVING POCs
+
+![image](https://user-images.githubusercontent.com/73772907/203237885-0a868d66-c1f7-4868-8844-50a4e33c5564.png)
+
+
+PICTURES DIRECTORIE HAVING SOME BASH  NETLOGO
+
+![image](https://user-images.githubusercontent.com/73772907/203238212-1da1e7c3-6499-4e75-bae2-08c0805ec708.png)
+
+
+MUSIC DIRECTORIE
+![image](https://user-images.githubusercontent.com/73772907/203238487-d7517f87-4551-4b51-9927-87821dba7150.png)
+
+
+AND VIDEOS DIRECTOR
+
+
+
+
+
 Plus Icon
 Ethical Hacking at THE SHIELD KE
+
+some of the 
+
